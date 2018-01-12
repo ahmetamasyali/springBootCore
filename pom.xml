@@ -110,7 +110,7 @@
 				<groupId>org.codehaus.mojo</groupId>
 				<artifactId>exec-maven-plugin</artifactId>
 				<configuration>
-					<mainClass>com.example.Solution</mainClass>
+					<mainClass>com.base.Application</mainClass>
 				</configuration>
 			</plugin>
 		</plugins>
